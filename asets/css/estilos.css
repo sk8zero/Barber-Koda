@@ -85,3 +85,7 @@ h2 {
   justify-content: center;
   align-items: center;
 }
+
+.center.espacio p {
+  display: flow-root;
+}
